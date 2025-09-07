@@ -9,7 +9,7 @@ I am a **Business Intelligence Analyst** with 5+ years of experience across **Fi
 
 I specialize in **requirement gathering, process modeling, and data analysis**, turning complex business needs into actionable solutions. My background includes leading **Agile projects**, building **ETL pipelines in Azure and AWS**, and optimizing operations through effective stakeholder collaboration.  
 
-Skilled in **Python, R, SQL, Power BI, Tableau, and Azure**, I deliver insights that drive **data-informed decisions**. I thrive in dynamic environments, enjoy solving challenging business problems, and am passionate about applying innovative solutions that create measurable impact.  
+Skilled in **Python, R, SQL, Power BI, Tableau, and Azure**, I deliver insights that drive **data-informed decisions**. I thrive in dynamic environments, enjoy solving challenging business problems, and am passionate about applying innovative solutions that create measurable impact. 
 
 ---
 
