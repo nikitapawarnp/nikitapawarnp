@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Business Intelligence Analyst** with 5+ years of experience across **Finance, Supply Chain, Real Estate, Marketing, and Workforce Analytics**. Currently pursuing my **Master’s in Business Analytics at ASU**, I combine industry expertise with advanced analytical and technical skills.  
+I am a **Business Intelligence Analyst** with 5+ years of experience across **Finance, Supply Chain and Logistics, Real Estate and Marketing, and Workforce Analytics**. Currently pursuing my **Master’s in Business Analytics at ASU**, I combine industry expertise with advanced analytical and technical skills.  
 
 I specialize in **requirement gathering, process modeling, and data analysis**, turning complex business needs into actionable solutions. My background includes leading **Agile projects**, building **ETL pipelines in Azure and AWS**, and optimizing operations through effective stakeholder collaboration.  
 
